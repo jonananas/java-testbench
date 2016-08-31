@@ -1,4 +1,4 @@
-package java.testbench;
+package testbench;
 
 import static java.nio.charset.CodingErrorAction.IGNORE;
 import static java.nio.charset.CodingErrorAction.REPLACE;
